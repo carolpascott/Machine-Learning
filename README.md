@@ -1,1 +1,1 @@
-Código para análise de vibração com rede neural multi layer percepton
+coleta de dados e análise de vibração com rede neural multi layer percepton
